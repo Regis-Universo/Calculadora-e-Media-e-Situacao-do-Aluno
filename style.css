@@ -1,0 +1,18 @@
+h1 {
+    font-size: 80px;
+    margin-bottom: 800px;
+}
+
+
+.rodape {
+    padding: 2%;
+    color: wheat;
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+sup {
+    font-size: 20px;
+}
